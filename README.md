@@ -16,3 +16,6 @@ O sistema simula a operação de uma locadora/gestora de frota que precisa cadas
 
 ```bash
 pip install streamlit
+
+## Para iniciar a aplicação:
+streamlit run sistema_frota_completo.py
